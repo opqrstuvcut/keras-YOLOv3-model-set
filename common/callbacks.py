@@ -4,7 +4,7 @@
 import os, sys, random, tempfile
 import numpy as np
 import glob
-from tensorflow_model_optimization.sparsity import keras as sparsity
+# from tensorflow_model_optimization.sparsity import keras as sparsity
 #from tensorflow.keras.models import Model
 from tensorflow.keras.callbacks import Callback
 
